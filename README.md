@@ -1,5 +1,5 @@
 <h1 align="left">Hi guys 👋, I'm Filip Dishkovski</h1>
-<h3 align="left">A passionate frontend developer who are opened to learn new backend technologies.</h3>
+<h3 align="left">A passionate frontend developer who started working on backend skills.</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.**
 

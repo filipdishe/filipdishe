@@ -1,7 +1,7 @@
 <h1 align="left">Hi guys 👋, I'm Filip Dishkovski</h1>
-<h3 align="left">A passionate frontend developer who started working on backend skills.</h3>
+<h3 align="left">A passionate Software Engineer</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Java, Spring, Spring Boot.**
 
 - 📫 How to reach me **filipdise@yahoo.com**
 
